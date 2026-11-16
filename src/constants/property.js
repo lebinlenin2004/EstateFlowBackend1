@@ -1,0 +1,5 @@
+export const PROPERTY_TYPES = ['apartment', 'villa', 'house', 'commercial_building', 'office_space', 'land', 'shop', 'warehouse']
+export const LISTING_TYPES = ['sale', 'rent', 'lease']
+export const PROPERTY_STATUSES = ['available', 'reserved', 'sold', 'rented', 'inactive']
+export const AREA_UNITS = ['sqft', 'sqm', 'sqyd', 'cent', 'acre']
+export const CUSTOMER_TYPES = ['buyer', 'tenant', 'investor', 'seller', 'landlord']
